@@ -32,7 +32,8 @@ this is for you.
     └── parametric-study.md
   /case-studies
     └── pressure-drop-analysis.md
----
+  
+  ---
 
 ## 🔬 My Background
 
