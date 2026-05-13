@@ -19,18 +19,19 @@ this is for you.
 ---
 
 ## 📂 Structure
-/basics
-└── what-is-cfd.md
-└── governing-equations.md
-└── mesh-and-geometry.md
-/ansys-fluent
-└── setup-guide.md
-└── boundary-conditions.md
-/python-automation
-└── pyfluent-intro.md
-└── parametric-study.md
-/case-studies
-└── pressure-drop-analysis.md
+
+  /basics
+    └── what-is-cfd.md
+    └── governing-equations.md
+    └── mesh-and-geometry.md
+  /ansys-fluent
+    └── setup-guide.md
+    └── boundary-conditions.md
+  /python-automation
+    └── pyfluent-intro.md
+    └── parametric-study.md
+  /case-studies
+    └── pressure-drop-analysis.md
 ---
 
 ## 🔬 My Background
