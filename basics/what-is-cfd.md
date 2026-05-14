@@ -80,3 +80,7 @@ the most efficient drainage pipe design.
 
 *"CFD is my virtual laboratory that I can bring everywhere I go."*
 *— Rehan Hidayat*
+
+---
+*Last updated: May 2026*
+*Part of my [CFD Fundamentals](../README.md) documentation*
