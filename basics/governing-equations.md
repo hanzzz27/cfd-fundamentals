@@ -17,6 +17,8 @@ Together, the conservation of mass and conservation of momentum
 equations are commonly referred to as the **Navier-Stokes equations** 
 — which describe how fluid properties change over space and time.
 
+![Navier-Stokes Equations](https://www.grc.nasa.gov/www/k-12/airplane/Images/nseqs.gif)
+*Source: NASA Glenn Research Center*
 > 📎 Reference: [Navier-Stokes Equations — NASA Glenn Research Center](https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html)
 
 ---
